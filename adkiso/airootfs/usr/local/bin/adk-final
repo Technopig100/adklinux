@@ -41,7 +41,7 @@ rm -f /etc/xdg/autostart/calamares.desktop
 rm -f /root/Desktop/calamares.desktop
 rm -f /etc/sddm.conf.d/autologin.conf
 rm /root/{.automated_script.sh,.zlogin}
-cp /etc/adk-release /etc/lsb-release
+#cp /etc/adk-release /etc/lsb-release
 mv /etc/sddm.conf.d/adk_settings /etc/sddm.conf.d/kde_settings.conf
 rm -f /etc/sddm.conf.d/adk_settings
 #rm -f /usr/local/share/webapps/letsencrypt/placeholder.conf
