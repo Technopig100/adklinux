@@ -1,15 +1,10 @@
 aardvark-dns
-adk-branding-config-git
 adk-calamares
 adk-grub-dark-git
-adk-linux-fkey-git
 adk-linux-keyring-git
 adk-live-rescue-git
-adk-mirrorlist-git
-adk-neofetch-git
 adk-server-config-git
 adk-server-git
-adk-server-root-git
 adk-system-installation-git
 amd-ucode
 ansible
