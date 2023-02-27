@@ -47,7 +47,7 @@ exfatprogs
 expac
 f2fs-tools
 fatresize
-filesystem
+filesystem-adk
 firefox
 foomatic-db-gutenprint-ppds
 fsarchiver
