@@ -1,8 +1,11 @@
+filesystem-adk
+lsb-release-adk
 aardvark-dns
 adk-calamares
 adk-grub-dark-git
 adk-linux-keyring-git
 adk-live-rescue-git
+adk-neofetch-git
 adk-server-config-git
 adk-server-git
 adk-system-installation-git
@@ -24,7 +27,6 @@ btrfs-progs
 buildah
 cdrkit
 certbot
-certbot-apache
 ckbcomp
 clonezilla
 cloud-init

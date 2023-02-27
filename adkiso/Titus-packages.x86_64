@@ -1,9 +1,12 @@
+filesystem-adk
+lsb-release-adk
 adk-calamares
 adk-calamares-config-git
 adk-dark-git
 adk-grub-dark-git
 adk-linux-keyring-git
 adk-live-rescue-git
+adk-neofetch-git
 adk-plasma-git
 adk-sddm-sugar-candy-git
 adk-system-installation-git
