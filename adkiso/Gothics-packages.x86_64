@@ -1,3 +1,4 @@
+filesystem-adk
 adk-calamares
 adk-dark-git
 adk-grub-dark-git
@@ -47,7 +48,6 @@ exfatprogs
 expac
 f2fs-tools
 fatresize
-filesystem-adk
 firefox
 foomatic-db-gutenprint-ppds
 fsarchiver
