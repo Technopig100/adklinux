@@ -15,7 +15,7 @@ apache
 arch-install-scripts
 avahi
 b43-fwcutter
-base
+base-adk
 bash-completion
 bat
 bind

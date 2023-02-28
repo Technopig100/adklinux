@@ -19,7 +19,7 @@ archinstall
 aritim-dark-gtk-git
 aritim-dark-kde-git
 avahi
-base
+base-adk
 base-devel
 bash-completion
 bat
