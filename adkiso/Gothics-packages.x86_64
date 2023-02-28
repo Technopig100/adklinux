@@ -107,10 +107,6 @@ man-db
 man-pages
 mdadm
 memtest86+
-mkinitcpio-adk
-mkinitcpio-archiso
-mkinitcpio-nfs-utils
-mkinitcpio-utils
 mlocate
 modemmanager
 mtools
