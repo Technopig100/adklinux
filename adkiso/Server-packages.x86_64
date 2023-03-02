@@ -1,5 +1,3 @@
-filesystem-adk
-lsb-release-adk
 aardvark-dns
 adk-calamares
 adk-grub-dark-git
@@ -47,9 +45,7 @@ dhclient
 diffutils
 dkms
 dmidecode
-dmidecode
 dmraid
-dnsmasq
 dnsmasq
 dolphin
 dosfstools
@@ -107,6 +103,7 @@ linux-atm
 linux-firmware
 linux-firmware-marvell
 livecd-sounds
+lsb-release-adk
 lsscsi
 lvm2
 lynx
@@ -118,7 +115,6 @@ mariadb
 mc
 mdadm
 memtest86+
-mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
 mkinitcpio-openswap
@@ -238,5 +234,6 @@ wvdial
 xfsprogs
 xl2tpd
 yaml-cpp
+yay
 zz-kernel-target
 zz-kernel-target-headers

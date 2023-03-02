@@ -1,5 +1,3 @@
-filesystem-adk
-lsb-release-adk
 adk-calamares
 adk-cinnamon-calamares-config-git
 adk-cinnamon-git
@@ -109,6 +107,7 @@ linux-atm
 linux-firmware
 linux-firmware-marvell
 livecd-sounds
+lsb-release-adk
 lsscsi
 lvm2
 lynx

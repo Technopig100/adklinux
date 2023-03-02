@@ -1,5 +1,3 @@
-filesystem-adk
-lsb-release-adk
 adk-calamares
 adk-calamares-config-git
 adk-dark-git
@@ -114,6 +112,7 @@ linux-firmware
 linux-firmware-marvell
 linux-firmware-qlogic
 linux-firmware-whence
+lsb-release-adk
 lsscsi
 man-db
 man-pages
