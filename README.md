@@ -1,6 +1,6 @@
-## ADK-Linux Iso builder
+## ADK-Linux Rolling Iso builder
 
-Adk-linux is a Arch-Linux based ISO created by Technopig a student of Erik Dubois.
+Adk-linux Rolling is a Arch-Linux based ISO created by Technopig a student of Erik Dubois.
 
 ## License
 
@@ -15,7 +15,7 @@ GNU GPL v3
 
 In this repository you'll find:
 
--  ADK-Linux ISO Builder for ADK-Linux and It's Flavors!
+-  ADK-Linux Rolling ISO Builder for ADK-Linux and It's Flavors!
 
 To build you will need to install:
 
@@ -31,4 +31,4 @@ Download and or build archiso, adk-linux-keyring & adk-mirrorlist:
 
 Do check out the archiso.readme.
 
-### Start building your own ADK-Linux version with the use of this script!
+### Start building your own ADK-Linux Rolling version with the use of this script!

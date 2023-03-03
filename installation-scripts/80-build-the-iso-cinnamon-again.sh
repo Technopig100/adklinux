@@ -2,7 +2,7 @@
 #set -e
 ##################################################################################################################
 #
-#   ADK-Linux code name Santanoni is a Build with Linux kernel and Cinnamon Desktop.
+#   ADK-Linux code name Santanoni is a Build with Linux-zen kernel and Cinnamon Desktop.
 #
 ##################################################################################################################
 echo
